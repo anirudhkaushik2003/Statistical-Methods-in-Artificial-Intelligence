@@ -1,0 +1,5 @@
+Murphy_Machine_Learning
+Pattern Classification by Richard O. Duda, David G. Stork, Peter E.Hart
+Reference book for SVD, PCA and Eigen Faces
+aurélien-géron-hands-on-machine-learning-with-scikit-2019
+mml-book
